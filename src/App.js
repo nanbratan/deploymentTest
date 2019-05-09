@@ -18,8 +18,6 @@ function App() {
         >
           Learn React
           Learn React
-          Learn React
-          Learn React
         </a>
       </header>
     </div>
