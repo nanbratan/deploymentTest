@@ -24,7 +24,6 @@ function App() {
           Learn React 12341241234sdafasd
           Learn React 12341241234sdafasd
           Learn React!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-          Learn React!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
           Learn React
         </a>
       </header>
